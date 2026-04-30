@@ -1,6 +1,6 @@
 # iOS Calculator UI Clone (Android XML)
 
-Pixel-inspired calculator interface recreated in Android XML using Material Components. This repo focuses on layout and styling only (no calculator logic).
+Pixel-inspired calculator interface recreated in Android XML using Material Components. This repo focuses on layout and styling only (no calculator logic). Built as part of my university mobile development course.
 
 ## STAR Project Story
 **Situation:** I needed a clean, mobile-ready UI replica of the iOS calculator to demonstrate layout precision and visual polish in Android.  
@@ -10,6 +10,7 @@ Pixel-inspired calculator interface recreated in Android XML using Material Comp
 
 ## Preview
 ![Calculator UI](./Screenshot%202024-10-30%20200225.png)
+![Calculator UI](./Screenshot_20241030_191836.png)
 
 ## Features
 - iOS-inspired calculator layout
@@ -32,7 +33,8 @@ Pixel-inspired calculator interface recreated in Android XML using Material Comp
 .
 ├── activity_main.xml
 ├── colors.xml
-└── Screenshot 2024-10-30 200225.png
+├── Screenshot 2024-10-30 200225.png
+└── Screenshot_20241030_191836.png
 ```
 
 ## Customization
